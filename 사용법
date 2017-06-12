@@ -1,0 +1,5 @@
+git clone SSH // 설치임
+( 업로드할 파일로 이동 후 )
+git add * // 업로드 준비1
+git commit -m "comment"	// 업로드준비2
+git push origin master // 제출
